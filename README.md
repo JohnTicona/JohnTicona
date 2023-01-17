@@ -11,7 +11,7 @@ Me considero una persona autodidacta que le apasiona la tecnología 🚀, con mu
 <h3>💻 ¿Que hago?</h3>
 
 <p>
-Actualmente me estoy dedicando a realizar proyectos personales en los cuales me permitan aprender nuevas tecnologías para seguir creciendo.
+Actualmente me estoy dedicando a realizar proyectos personales los cuales me permitan aprender nuevas tecnologías para seguir creciendo.
 </p>
 
 <h3>🔥 ¿De dónde vengo?</h3>
@@ -22,10 +22,10 @@ Me gradué del Bootcamp de <b>Soy Henry</b> como <b>Full Stack Developer</b>, y 
 
 <h3>🚀 ¿Hacia dónde voy?</h3> 
 <p>
-A donde sea que pueda aportar soluciones a través del código. Creo que el destino no es un lugar al cuál llegar, sino una manera de transitar. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado.
+A donde se pueda aportar soluciones a través del código. Creo que el destino no es un lugar al cuál llegar, sino una manera de transitar. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado.
 </p>
 
-#### 🧰 ¿Qué tecnologías y lenguajes uso?
+<h3>🧰 ¿Qué tecnologías y lenguajes uso?</h3>
 
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
