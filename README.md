@@ -8,19 +8,19 @@
 Me considero una persona autodidacta que le apasiona la tecnología 🚀, con muchas ganas de trabajar, aprender cosas nuevas, mejorar mis habilidades y colaborar en equipo.
 </p>
 
-<h4>💻 ¿Que hago?</h4>
+<h3>💻 ¿Que hago?</h3>
 
 <p>
 Actualmente me estoy dedicando a realizar proyectos personales en los cuales me permitan aprender nuevas tecnologías para seguir creciendo.
 </p>
 
-<h4>🔥 ¿De dónde vengo?</h4>
+<h3>🔥 ¿De dónde vengo?</h3>
 
 <p>
 Me gradué del Bootcamp de <b>Soy Henry</b> como <b>Full Stack Developer</b>, y actualmente estoy cursando el ultimo año en la Carrera de <b>Informática</b> en la Universidad Mayor de San Andres.
 </p>
 
-<h4>🚀 ¿Hacia dónde voy?</h4> 
+<h3>🚀 ¿Hacia dónde voy?</h3> 
 <p>
 A donde sea que pueda aportar soluciones a través del código. Creo que el destino no es un lugar al cuál llegar, sino una manera de transitar. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado.
 </p>
