@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **JohnTicona/JohnTicona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ▶️ Hola! Soy John Ticona 🙂
+<p align="center" width="300">
+   <h3 align="center">¡Hola 👋! Soy John Ticona 🙂</h3>
+</p>
 
-### 👋 ¿Quién soy? 
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong></p>
+
 Recientemente graduado en <b>desarrollo web full stack</b> en soyHenry (PERN stack). Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas.
 Descubrí el mundo de la programación a través de Python, SQL y MatLab, y decidí anotarme al bootcamp de Henry, en el cuál pude aprender y profundizar mucho sobre código, tecnologías, y también la importancia del trabajo en equipo. 
 Lo que más me gusta de este mundo es que hay mucho por aprender, y eso es un gran disparador de motivación para mi curiosidad. 🤓🧠🚀
