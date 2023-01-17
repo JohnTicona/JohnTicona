@@ -1,42 +1,72 @@
-<!--
-**JohnTicona/JohnTicona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center" width="300">
-   <h3 align="center">¡Hola 👋! Soy John Ticona 🙂</h3>
+   <h3 align="center">¡Hola 👋! Soy JOHN TICONA </h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong></p>
+<p align="center"><strong>⚡ FULL STACK DEVELOPER ⚡</strong></p>
 
+<p>
+Me considero una persona autodidacta que le apasiona la tecnología 🚀, con muchas ganas de trabajar, aprender cosas nuevas, mejorar mis habilidades y colaborar en equipo.
+</p>
 
-Me considero una persona autodidacta que le apasiona la tecnología, con muchas ganas de trabajar, aprender cosas nuevas, mejorar mis habilidades y colaborar en equipo. 🧠🚀
+<h4>💻 ¿Que hago?</h4>
 
-### ⏪ ¿Que hago?
-Actualmente me estoy dedicando a realizar proyecto personales en los cuales me permitan aprender nuevas tecnologías para seguir creciendo. 
+<p>
+Actualmente me estoy dedicando a realizar proyectos personales en los cuales me permitan aprender nuevas tecnologías para seguir creciendo.
+</p>
 
-### ⏪ ¿De dónde vengo? 
-Me gradué en el año 2014 en <b>Ingeniería Industrial</b>, y me desempeñé durante cinco años en distintas industrias y roles. Luego incursioné en la docencia por alrededor de dos años, dictando materias afines a la Ciencia y la Ingeniería. 
+<h4>🔥 ¿De dónde vengo?</h4>
 
+<p>
+Me gradué del Bootcamp de <b>Soy Henry</b> como <b>Full Stack Developer</b>, y actualmente estoy cursando el ultimo año en la Carrera de <b>Informática</b> en la Universidad Mayor de San Andres.
+</p>
 
-### 🔭 ¿Hacia dónde voy? 
-A donde sea que pueda aportar soluciones a través del código. Creo que el destino no es un lugar al cuál llegar, sino una manera de transitar. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado. 
+<h4>🚀 ¿Hacia dónde voy?</h4> 
+<p>
+A donde sea que pueda aportar soluciones a través del código. Creo que el destino no es un lugar al cuál llegar, sino una manera de transitar. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado.
+</p>
 
+#### 🧰 ¿Qué tecnologías y lenguajes uso?
 
-### 🧰 ¿Qué tecnologías y lenguajes uso? 
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+</p>
 
-### 📬 Contacto 
-Portafolio: https://johndev.vercel.app/
-Email: jbticona2@gmail.com
-LinkedIn: https://www.linkedin.com/in/john-ticona-09a738189/
+#### 📬 Contáctame
+
+<p>
+🔹 Portafolio: https://johndev.vercel.app/
+</p>
+<p>
+🔹 LinkedIn: https://www.linkedin.com/in/john-ticona-09a738189/
+</p>
+<p>
+🔹 Email: jbticona2@gmail.com
+</p>
+
 
