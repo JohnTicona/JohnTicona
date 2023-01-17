@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 Me considero una persona autodidacta que le apasiona la tecnología, con muchas ganas de trabajar, aprender cosas nuevas, mejorar mis habilidades y colaborar en equipo. 🧠🚀
 
-### ⏪ ¿Que hago? Actualmente me estoy dedicando a realizar proyecto personales en los cuales me permitan aprender nuevas tecnologías para seguir creciendo. 
+### ⏪ ¿Que hago?
+Actualmente me estoy dedicando a realizar proyecto personales en los cuales me permitan aprender nuevas tecnologías para seguir creciendo. 
 
 ### ⏪ ¿De dónde vengo? 
 Me gradué en el año 2014 en <b>Ingeniería Industrial</b>, y me desempeñé durante cinco años en distintas industrias y roles. Luego incursioné en la docencia por alrededor de dos años, dictando materias afines a la Ciencia y la Ingeniería. 
@@ -36,6 +37,6 @@ A donde sea que pueda aportar soluciones a través del código. Creo que el dest
 
 ### 📬 Contacto 
 Portafolio: https://johndev.vercel.app/
-Email: jbticona2@gmail.com  
+Email: jbticona2@gmail.com
 LinkedIn: https://www.linkedin.com/in/john-ticona-09a738189/
 
